@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shipping_tracking_app/static/css/main.81dc1d3f.css",
-    "main.js": "/shipping_tracking_app/static/js/main.00a5fec4.js",
+    "main.js": "/shipping_tracking_app/static/js/main.9275c38d.js",
     "index.html": "/shipping_tracking_app/index.html",
     "main.81dc1d3f.css.map": "/shipping_tracking_app/static/css/main.81dc1d3f.css.map",
-    "main.00a5fec4.js.map": "/shipping_tracking_app/static/js/main.00a5fec4.js.map"
+    "main.9275c38d.js.map": "/shipping_tracking_app/static/js/main.9275c38d.js.map"
   },
   "entrypoints": [
     "static/css/main.81dc1d3f.css",
-    "static/js/main.00a5fec4.js"
+    "static/js/main.9275c38d.js"
   ]
 }
