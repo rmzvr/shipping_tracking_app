@@ -17,11 +17,14 @@ root.render(
       horizontal: 'left'
     }}
   >
-    <BrowserRouter>
+    <BrowserRouter basename='/shipping_tracking_app'>
       <AuthProvider>
         <AvatarProvider>
           <Routes>
-            <Route path='/*' element={<App />} />
+            <Route
+              path='/*'
+              element={<App />}
+            />
           </Routes>
         </AvatarProvider>
       </AuthProvider>
