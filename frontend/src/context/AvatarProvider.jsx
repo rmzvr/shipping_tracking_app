@@ -22,7 +22,7 @@ export function AvatarProvider({ children }) {
     }
 
     setAvatar(
-      `https://shipping-tracking-app.herokuapp.com//static/${avatar}`
+      `https://shipping-tracking-app.herokuapp.com/static/${avatar}`
     )
   }
 
