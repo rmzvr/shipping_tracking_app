@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shipping_tracking_app/static/css/main.81dc1d3f.css",
+    "main.js": "/shipping_tracking_app/static/js/main.5d2eb3f6.js",
+    "index.html": "/shipping_tracking_app/index.html",
+    "main.81dc1d3f.css.map": "/shipping_tracking_app/static/css/main.81dc1d3f.css.map",
+    "main.5d2eb3f6.js.map": "/shipping_tracking_app/static/js/main.5d2eb3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81dc1d3f.css",
+    "static/js/main.5d2eb3f6.js"
+  ]
+}
