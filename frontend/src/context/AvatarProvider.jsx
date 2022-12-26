@@ -21,7 +21,9 @@ export function AvatarProvider({ children }) {
       return
     }
 
-    setAvatar(`http://localhost:8080/static/${avatar}`)
+    setAvatar(
+      `https://shipping-tracking-app.herokuapp.com//static/${avatar}`
+    )
   }
 
   return (
